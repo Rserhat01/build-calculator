@@ -1,0 +1,20 @@
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\bin\Debug\calculator2.exe.config
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\bin\Debug\calculator2.exe
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\bin\Debug\calculator2.pdb
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.AssemblyReference.cache
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.cache
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.exe
+C:\Users\resitserhatbaglam\source\repos\calculator2\calculator2\obj\Debug\calculator2.pdb
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\bin\Debug\calculator2.exe.config
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\bin\Debug\calculator2.exe
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\bin\Debug\calculator2.pdb
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.exe
+\\Mac\Home\Desktop\vs 2019 projeler\calculator2\calculator2\obj\Debug\calculator2.pdb
